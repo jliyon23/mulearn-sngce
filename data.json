@@ -1,0 +1,151 @@
+{
+    "collegeCode": "SNG",
+    "college": "Sree Narayana Gurukulam College of Engineering",
+    "about": "Established in 2023, We ignite students' potential through immersive bootcamps in IoT, web development, UI/UX design, and much more, sculpting future tech heroes. Crafting a fusion of passion and prowess, carving a pathway for students to conquer and innovate in this ever-growing realm of technology.",
+    "events": [
+        {
+            "month": "Jan",
+            "date": "22",
+            "head": "Introduction to HTML and Tailwind CSS",
+            "para": "Hands on experience to HTML & CSS in freecodecamp",
+            "img": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651212/WhatsApp_Image_2025-01-21_at_7.31.48_AM_vm0lbc.jpg"
+        },
+        {
+            "month": "Jan",
+            "date": "13",
+            "head": "Python challenge",
+            "para": "familiarization in basic to intermediate Python programming",
+            "img": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651213/WhatsApp_Image_2025-01-12_at_10.32.56_PM_to8iug.jpg"
+        },
+        {
+            "month": "Dec",
+            "date": "18",
+            "head": "Keyboard Mastry",
+            "para": "familiarization in basic to intermediate Python programming Keyboard typing tasks",
+            "img": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651217/WhatsApp_Image_2025-01-12_at_10.32.35_PM_2_glfdum.jpg"
+        },
+        {
+            "month": "Oct",
+            "date": "09",
+            "head": "Introduction to MuLearn",
+            "para": "Session to familier students about mulearn and it's benifits.",
+            "img": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651216/WhatsApp_Image_2025-01-12_at_10.41.50_PM_zztaxk.jpg"
+        }
+    ],
+    "gallery": {
+        "row1": [
+            {
+                "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651788/WhatsApp_Image_2025-01-23_at_5.16.37_PM_jywobs.jpg"
+            },
+            {
+                "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651786/WhatsApp_Image_2025-01-23_at_5.16.38_PM_jbnq4o.jpg"
+            },
+            {
+                "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651212/WhatsApp_Image_2025-01-21_at_7.31.48_AM_vm0lbc.jpg"
+            }
+        ],
+        "row2": [
+            {
+                "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651214/WhatsApp_Image_2025-01-12_at_10.32.35_PM_1_geecp1.jpg"
+            },
+            {
+                "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737651214/WhatsApp_Image_2025-01-12_at_10.32.35_PM_pqyz2p.jpg"
+            },
+            {
+                "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/v1737652248/WhatsApp_Image_2025-01-23_at_5.16.39_PM_v5dbsp.jpg"
+            }
+        ]
+    },
+    "statistics": {
+        "studentsCount": 163,
+        "learningCircles": 10,
+        "InterestGroups": 5,
+        "karmaEarned": 45000,
+        "rank": 56
+    },
+    "team": {
+        "staffAdvisor": {
+            "name": "Dhakshu Sivan",
+            "image": "https://sngce.ac.in/faculty_photo/1650616871_faculty_dhakshu.jpg"
+        },
+        "campusLead": {
+            "name": "Gifton Shibu",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737650776/WhatsApp_Image_2025-01-23_at_10.01.49_PM_y2u1yv.jpg"
+        },
+        "campusCoLead": {
+            "name": "Malavika Pangavoor",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649579/Malavika_P_h19ry4.jpg"
+        },
+        "technicalLead1": {
+            "name": "Manu C Madhu",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649564/Manu_C_Madhu__aevzt6.jpg"
+        },
+        "technicalLead2": {
+            "name": "Adish K T",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649605/Adish_K_T_iuholz.jpg"
+        },
+        "technicalLead3": {
+            "name": "Elizabeth Reji",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649580/Elizabeth_Reji__kquzhc.png"
+        },
+        "mediaLead": {
+            "name": "Gopika Krishna S",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649636/Gopika_Krishna_S_qxub2o.jpg"
+        },
+        "mediaCoLead": {
+            "name": "Giana Don",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649454/GIANA_DON_g7bcwf.jpg"
+        },
+        "contentLead1": {
+            "name": "Arya Santhosh",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649482/Arya_Santhosh_p_mbhhve.jpg"
+        },
+        "contentLead2": {
+            "name": "Bhavana S Nair",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649453/Bhavana_S_Nair__km12hf.jpg"
+        },
+        "operationLead": {
+            "name": "Enric S Neelamkavil",
+            "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
+        },
+        "designLead1": {
+            "name": "Sandhra Saevy",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649579/Sandhra_Saevy__lwhhl1.jpg"
+        },
+        "designLead2": {
+            "name": "Arnav Jagadeesh",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649477/Arnav_Jagadeesh_f5hqlp.jpg"
+        },
+        "designLead3": {
+            "name": "Devika Subhash",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649545/IMG20250112132914-01_maoqht.jpg"
+        },
+        "uiuxLead": {
+            "name": "Aswin Baburaj",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737651650/WhatsApp_Image_2025-01-23_at_10.26.24_PM_lwsizn.jpg"
+        },
+        "webLead": {
+            "name": "Joseph Liyon",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737650574/PXL_20250119_080508200.RAW-01.COVER_kvgft3.jpg"
+        },
+        "cyberSecurityLead": {
+            "name": "Liya Mary Kuriakose",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649513/Liya_Mary_Kuriakose__mfm3rt.webp"
+        },
+        "creativeLead": {
+            "name": "Benson B Varghese",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649506/Benson_B_Varghese__bba7ph.jpg"
+        },
+        "creativeCoLead": {
+            "name": "Ajay Krishna PR",
+            "image": "https://res.cloudinary.com/dlgdmu6gq/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1737649486/Ajay_Krishna_P_R_ev1dec.jpg"
+        }
+    },
+    "discordLink": "",
+    "whatsAppLink": "",
+    "email": "mulearn@cce.edu.in",
+    "linkedIn": "",
+    "instagram": "https://www.instagram.com/mulearn_sngce/",
+    "twitter": "",
+    "facebook": ""
+}
